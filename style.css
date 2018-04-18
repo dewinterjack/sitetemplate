@@ -1,0 +1,25 @@
+body{
+  font-family: 'Roboto';
+  font-weight: 400;
+  background-color: #85d5da;
+  color: black;
+  font-size: 30px;
+}
+
+section{
+  position: relative;
+  padding: 5%;
+  margin:auto;
+  width: 70%;
+  text-align: center;
+}
+
+.main{
+  border: solid 5px white;
+  background-color: #da8a85;
+  color: #92d9de;
+}
+
+h1{
+  font-size:40px;
+}
